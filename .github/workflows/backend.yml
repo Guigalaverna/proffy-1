@@ -17,3 +17,4 @@ jobs:
           heroku_email: "lpansarini@gmail.com"
           buildpack: "https://github.com/HashNuke/heroku-buildpack-elixir.git"
           appdir: "server"
+          procfile: "web: tsnd --transpile-only --ignore-watch node_modules --respawn src/server.ts"
