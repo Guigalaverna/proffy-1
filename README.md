@@ -1,3 +1,5 @@
+![proffy](https://socialify.git.ci/LuizHAP/proffy/image?font=Source%20Code%20Pro&forks=1&language=1&owner=1&pattern=Signal&stargazers=1&theme=Dark)
+
 <p align="center">
    <img src="https://github.com/vsamarcus/proffy/blob/master/.github/logo.png?raw=true" alt="Proffy" width="280"/>
 </p>
